@@ -1,0 +1,14 @@
+% latex table generated in R 4.5.1 by xtable 1.8-4 package
+% Fri Feb 20 11:46:48 2026
+\begin{table}[ht]
+\centering
+\begin{tabular}{rllllll}
+  \hline
+ & 1 & 2 & 3 & 4 & 5 & 6 \\ 
+  \hline
+\midrule
+Statistic & $\spn\{\varsigma_0\}$ & $\spn\{\varsigma_1\}$ & $\spn\{\varsigma_2\}$ & $\spn\{\varsigma_0,\varsigma_1\}$ & $\spn\{\varsigma_1,\varsigma_2\}$ & $\spn\{\varsigma_0,\varsigma_1,\varsigma_2\}$ \\ 
+  \midrule Inv.VR  & 0.5386$^{**}$ & 0.5286$^{**}$ & 0.5312$^{**}$ & 0.5213$^{**}$ & 0.5313$^{**}$ & 0.5172$^{**}$ \\ 
+   \hline
+\end{tabular}
+\end{table}

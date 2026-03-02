@@ -1,0 +1,21 @@
+% latex table generated in R 4.5.1 by xtable 1.8-4 package
+% Fri Feb 20 11:46:48 2026
+\begin{table}[ht]
+\centering
+\begin{tabular}{rllllll}
+  \hline
+ & 1 & 2 & 3 & 4 & 5 & 6 \\ 
+  \hline
+Statistic &  & $j=1$\phantom{$^{**}$} & $j=2$\phantom{$^{**}$} & $j=3$\phantom{$^{**}$} & $j=4$\phantom{$^{**}$} & $j=5$\phantom{$^{**}$} \\ 
+  \midrule $\mu_{j+1}/\mu_j$ &  & 2.74\phantom{$^{**}$} & 3.18\phantom{$^{**}$} & 2.88\phantom{$^{**}$} & 1.44\phantom{$^{**}$} & 5.11\phantom{$^{**}$} \\ 
+  $\hat{\kappa}_j/\max_j\{\hat{\kappa}_j  \}$ &  & 0.09\phantom{$^{**}$} & 0.31\phantom{$^{**}$} & 0.19\phantom{$^{**}$} & 0.00\phantom{$^{**}$} & 1.00\phantom{$^{**}$} \\ 
+  \midrule
+\multicolumn{7}{c}{Variance Ratio Test Statistics}\\
+Statistic & $s_0=0$\phantom{$^{**}$} & $s_0=1$\phantom{$^{**}$} & $s_0=2$\phantom{$^{**}$} & $s_0=3$\phantom{$^{**}$} & $s_0=4$\phantom{$^{**}$} & $s_0=5$\phantom{$^{**}$} \\ 
+  \midrule Inv.VR  & 1.01$^{**}$ & 0.46$^{**}$ & 0.21$^{**}$ & 0.11$^{*}$\phantom{$^{*}$} &  &  \\ 
+  VR(2,1) &  & 115.90\phantom{$^{**}$} & 620.82$^{\dagger}$\phantom{$^{*}$} & 1352.88$^{*}$\phantom{$^{*}$} & 4093.38$^{**}$ & 7947.46$^{**}$ \\ 
+  VR(2,0) &  & 4987.72\phantom{$^{**}$} & 53168.12$^{*}$\phantom{$^{*}$} & 110718.47$^{*}$\phantom{$^{*}$} & 564180.38$^{**}$ & 1139481.67$^{**}$ \\ 
+  VR(1,0) &  & 46.17$^{*}$\phantom{$^{*}$} & 148.54$^{**}$ & 243.45$^{**}$ & 547.63$^{**}$ & 940.36$^{**}$ \\ 
+   \hline
+\end{tabular}
+\end{table}
